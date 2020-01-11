@@ -1,0 +1,6 @@
+C:\Users\harun\Desktop\Harun_Alkan\HarunAlkan_oyun\HarunAlkan_oyun\bin\Debug\HarunAlkan_oyun.exe.config
+C:\Users\harun\Desktop\Harun_Alkan\HarunAlkan_oyun\HarunAlkan_oyun\bin\Debug\HarunAlkan_oyun.exe
+C:\Users\harun\Desktop\Harun_Alkan\HarunAlkan_oyun\HarunAlkan_oyun\bin\Debug\HarunAlkan_oyun.pdb
+C:\Users\harun\Desktop\Harun_Alkan\HarunAlkan_oyun\HarunAlkan_oyun\obj\Debug\HarunAlkan_oyun.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\Harun_Alkan\HarunAlkan_oyun\HarunAlkan_oyun\obj\Debug\HarunAlkan_oyun.exe
+C:\Users\harun\Desktop\Harun_Alkan\HarunAlkan_oyun\HarunAlkan_oyun\obj\Debug\HarunAlkan_oyun.pdb
